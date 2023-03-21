@@ -166,15 +166,3 @@ docker-compose -f docker-compose.prod.yml up
 ## Comment
 I intend to keep adding more features to this application, so if you like it, please give it a star, that will encourage me to 
 to keep improving the project.
-
-
-## Author
-
-- Twitter: [@panshak_](https://twitter.com/panshak_)
-- Github: [@panshak](https://github.com/panshak)
-- Linkedin: [@panshak](https://www.linkedin.com/in/panshak/)
-- Email: [@ipanshak](mailto:ipanshak@gmail.com)
-
-## License
-
-- This project is [MIT](https://github.com/Panshak/accountill/blob/master/LICENSE.md) licensed.
